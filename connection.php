@@ -1,5 +1,5 @@
 <?php
-$host = 'webapplication-db.csrb5wlort2x.us-east-1.rds.amazonaws.com';
+$host = 'webapplication-db.cn5j2lyaso8f.us-east-1.rds.amazonaws.com';
 $master_name = 'main';
 $master_password = 'WebApplication-password';
 $database = 'users_db';
